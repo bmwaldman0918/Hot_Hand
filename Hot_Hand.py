@@ -19,6 +19,8 @@ def main():
     # open file in read mode
     d = open("probability", "r")
     check(d)
+
+
 def check(z):
     # total heads
     h = 0
